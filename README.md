@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Francisco Serafini</h1>
-<h3 align="center">Un apasionado desarrollador frontend de la India</h3>
+
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=franciscoserafini&label=Profile%20views&color=0e75b6&style=flat" alt="franciscoserafini" /> </p>
 
