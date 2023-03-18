@@ -2,14 +2,7 @@
 ## 🚀 Sobre mi
 ### Soy estudiante de Analista en Sistemas y Desarrollo de Software en Colegio Universitario IES SIGLO 21.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscoserafini&label=Profile%20views&color=0e75b6&style=flat" alt="franciscoserafini" /> </p>
 
-- 📫 Cómo para contactarme **franciscoserafinigiorgi@gmail.com**
-
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left"/p>
-<a href="https://linkedin.com/in /francisco serafini giorgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /linked-in-alt.svg" alt="francisco serafini giorgi" height="30" width="40" /></a> </p> <p>
-<
 
 img align="izquierda" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscoserafini&show_icons=true&locale=en&layout=compact" alt="franciscoserafini" /></p>
 
