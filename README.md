@@ -3,9 +3,6 @@
 ### Soy estudiante de Analista en Sistemas y Desarrollo de Software en Colegio Universitario IES SIGLO 21.
 
 
-
-img align="izquierda" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscoserafini&show_icons=true&locale=en&layout=compact" alt="franciscoserafini" /></p>
-
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscoserafini&show_icons=true&locale=en" alt="franciscoserafini" /></p>
 ## Tecnologias
 <div align="center" valign="top"><br>
