@@ -1,6 +1,6 @@
 # Hola 👋🏽, soy Francisco Serafini Giorgi
 ## 🚀 Sobre mi
-### Soy estudiante de Analista en Sistemas y Desarrollo de Software en Colegio Universitario IES SIGLO 21.
+### Estudiante de Analista en Sistemas y Desarrollo de Software en Colegio Universitario IES SIGLO 21.
 
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscoserafini&show_icons=true&locale=en" alt="franciscoserafini" /></p>
