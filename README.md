@@ -4,7 +4,7 @@
 
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscoserafini&show_icons=true&locale=en" alt="franciscoserafini" /></p>
-## Tecnologias
+### Tecnologias
 <div align="center" valign="top"><br>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
