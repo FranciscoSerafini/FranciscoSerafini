@@ -3,7 +3,7 @@
 ### Estudiante de Analista en Sistemas y Desarrollo de Software en Colegio Universitario IES SIGLO 21.
 
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscoserafini&show_icons=true&locale=en" alt="franciscoserafini" /></p>
+
 
 <div align="center" valign="top"><br>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
