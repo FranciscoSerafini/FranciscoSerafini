@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="280"  width="100%" src=https://github.com/FranciscoSerafini/image />
+</div> 
 <br clear="both">
 <h2>Hola, soy Francisco 👋</h2>
 <p>Estudiante de Analista de Sistemas y Desarrollo de Software, apasionado por la tecnología y siempre buscando nuevas oportunidades para aprender y crecer. Actualmente, estoy enfocado en el desarrollo backend y el análisis de datos. Mi objetivo es combinar mis habilidades técnicas con mi curiosidad insaciable para resolver problemas complejos y contribuir de manera significativa en proyectos innovadores.</p>
